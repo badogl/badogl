@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @badogl
-- 👀 I’m interested in java
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python
 - 📫 How to reach me mail or here
 
 <!---
